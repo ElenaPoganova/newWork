@@ -1,0 +1,15 @@
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\newWork2.csproj.AssemblyReference.cache
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\newWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\newWork2.AssemblyInfoInputs.cache
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\newWork2.AssemblyInfo.cs
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\newWork2.csproj.CoreCompileInputs.cache
+D:\WorkNew\newWork\newWork2\bin\Debug\net6.0\newWork2.exe
+D:\WorkNew\newWork\newWork2\bin\Debug\net6.0\newWork2.deps.json
+D:\WorkNew\newWork\newWork2\bin\Debug\net6.0\newWork2.runtimeconfig.json
+D:\WorkNew\newWork\newWork2\bin\Debug\net6.0\newWork2.dll
+D:\WorkNew\newWork\newWork2\bin\Debug\net6.0\newWork2.pdb
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\newWork2.dll
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\refint\newWork2.dll
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\newWork2.pdb
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\newWork2.genruntimeconfig.cache
+D:\WorkNew\newWork\newWork2\obj\Debug\net6.0\ref\newWork2.dll
