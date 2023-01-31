@@ -1,0 +1,15 @@
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\Sem1.csproj.AssemblyReference.cache
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfoInputs.cache
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfo.cs
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\Sem1.csproj.CoreCompileInputs.cache
+D:\WorkNew\newWork\Sem1\bin\Debug\net6.0\Sem1.exe
+D:\WorkNew\newWork\Sem1\bin\Debug\net6.0\Sem1.deps.json
+D:\WorkNew\newWork\Sem1\bin\Debug\net6.0\Sem1.runtimeconfig.json
+D:\WorkNew\newWork\Sem1\bin\Debug\net6.0\Sem1.dll
+D:\WorkNew\newWork\Sem1\bin\Debug\net6.0\Sem1.pdb
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\Sem1.dll
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\refint\Sem1.dll
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\Sem1.pdb
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\Sem1.genruntimeconfig.cache
+D:\WorkNew\newWork\Sem1\obj\Debug\net6.0\ref\Sem1.dll
