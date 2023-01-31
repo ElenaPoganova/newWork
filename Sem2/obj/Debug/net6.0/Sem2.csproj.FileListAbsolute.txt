@@ -1,0 +1,15 @@
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\Sem2.csproj.AssemblyReference.cache
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\Sem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\Sem2.AssemblyInfoInputs.cache
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\Sem2.AssemblyInfo.cs
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\Sem2.csproj.CoreCompileInputs.cache
+D:\WorkNew\newWork\Sem2\bin\Debug\net6.0\Sem2.exe
+D:\WorkNew\newWork\Sem2\bin\Debug\net6.0\Sem2.deps.json
+D:\WorkNew\newWork\Sem2\bin\Debug\net6.0\Sem2.runtimeconfig.json
+D:\WorkNew\newWork\Sem2\bin\Debug\net6.0\Sem2.dll
+D:\WorkNew\newWork\Sem2\bin\Debug\net6.0\Sem2.pdb
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\Sem2.dll
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\refint\Sem2.dll
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\Sem2.pdb
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\Sem2.genruntimeconfig.cache
+D:\WorkNew\newWork\Sem2\obj\Debug\net6.0\ref\Sem2.dll
